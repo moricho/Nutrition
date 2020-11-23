@@ -1,4 +1,4 @@
-# Nutrition
+# nutrition
 
 A new Flutter project.
 
